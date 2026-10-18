@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studia\\PROG\\Zgadnij_liczbe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB60DD6F-AC96-7C14-3FA0-EF7A9331BE67}|Zgadnij_liczbe.csproj|c:\\studia\\prog\\zgadnij_liczbe\\zgadnij_liczbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB60DD6F-AC96-7C14-3FA0-EF7A9331BE67}|Zgadnij_liczbe.csproj|solutionrelative:zgadnij_liczbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zgadnij_liczbe.cs",
+              "DocumentMoniker": "C:\\Studia\\PROG\\Zgadnij_liczbe\\Zgadnij_liczbe.cs",
+              "RelativeDocumentMoniker": "Zgadnij_liczbe.cs",
+              "ToolTip": "C:\\Studia\\PROG\\Zgadnij_liczbe\\Zgadnij_liczbe.cs",
+              "RelativeToolTip": "Zgadnij_liczbe.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T15:55:26.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
