@@ -1,0 +1,15 @@
+D:\Studia\PROG\Rysowanie figur z gwiazdek\bin\Debug\net10.0\Rysowanie figur z gwiazdek.exe
+D:\Studia\PROG\Rysowanie figur z gwiazdek\bin\Debug\net10.0\Rysowanie figur z gwiazdek.deps.json
+D:\Studia\PROG\Rysowanie figur z gwiazdek\bin\Debug\net10.0\Rysowanie figur z gwiazdek.runtimeconfig.json
+D:\Studia\PROG\Rysowanie figur z gwiazdek\bin\Debug\net10.0\Rysowanie figur z gwiazdek.dll
+D:\Studia\PROG\Rysowanie figur z gwiazdek\bin\Debug\net10.0\Rysowanie figur z gwiazdek.pdb
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.AssemblyInfoInputs.cache
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.AssemblyInfo.cs
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.csproj.CoreCompileInputs.cache
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.dll
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\refint\Rysowanie figur z gwiazdek.dll
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.pdb
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowanie figur z gwiazdek.genruntimeconfig.cache
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\ref\Rysowanie figur z gwiazdek.dll
+D:\Studia\PROG\Rysowanie figur z gwiazdek\obj\Debug\net10.0\Rysowani.6075EC7B.Up2Date
