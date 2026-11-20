@@ -1,0 +1,15 @@
+D:\Studia\PROG\Liczby parzyste i nieparzyste\bin\Debug\net10.0\Liczby parzyste i nieparzyste.exe
+D:\Studia\PROG\Liczby parzyste i nieparzyste\bin\Debug\net10.0\Liczby parzyste i nieparzyste.deps.json
+D:\Studia\PROG\Liczby parzyste i nieparzyste\bin\Debug\net10.0\Liczby parzyste i nieparzyste.runtimeconfig.json
+D:\Studia\PROG\Liczby parzyste i nieparzyste\bin\Debug\net10.0\Liczby parzyste i nieparzyste.dll
+D:\Studia\PROG\Liczby parzyste i nieparzyste\bin\Debug\net10.0\Liczby parzyste i nieparzyste.pdb
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.AssemblyInfoInputs.cache
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.AssemblyInfo.cs
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.csproj.CoreCompileInputs.cache
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.dll
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\refint\Liczby parzyste i nieparzyste.dll
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.pdb
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby parzyste i nieparzyste.genruntimeconfig.cache
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\ref\Liczby parzyste i nieparzyste.dll
+D:\Studia\PROG\Liczby parzyste i nieparzyste\obj\Debug\net10.0\Liczby p.4E2230F5.Up2Date
