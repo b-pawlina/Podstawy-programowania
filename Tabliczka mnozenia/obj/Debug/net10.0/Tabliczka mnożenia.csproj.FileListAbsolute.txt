@@ -1,0 +1,15 @@
+D:\Studia\PROG\Tabliczka mnożenia\bin\Debug\net10.0\Tabliczka mnożenia.exe
+D:\Studia\PROG\Tabliczka mnożenia\bin\Debug\net10.0\Tabliczka mnożenia.deps.json
+D:\Studia\PROG\Tabliczka mnożenia\bin\Debug\net10.0\Tabliczka mnożenia.runtimeconfig.json
+D:\Studia\PROG\Tabliczka mnożenia\bin\Debug\net10.0\Tabliczka mnożenia.dll
+D:\Studia\PROG\Tabliczka mnożenia\bin\Debug\net10.0\Tabliczka mnożenia.pdb
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.AssemblyInfoInputs.cache
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.AssemblyInfo.cs
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.csproj.CoreCompileInputs.cache
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.dll
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\refint\Tabliczka mnożenia.dll
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.pdb
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczka mnożenia.genruntimeconfig.cache
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\ref\Tabliczka mnożenia.dll
+D:\Studia\PROG\Tabliczka mnożenia\obj\Debug\net10.0\Tabliczk.E7A76004.Up2Date
