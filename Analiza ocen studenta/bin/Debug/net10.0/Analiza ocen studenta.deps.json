@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Analiza ocen studenta/1.0.0": {
+        "runtime": {
+          "Analiza ocen studenta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analiza ocen studenta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

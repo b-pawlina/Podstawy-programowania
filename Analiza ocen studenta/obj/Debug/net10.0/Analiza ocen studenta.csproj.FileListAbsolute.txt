@@ -1,0 +1,15 @@
+D:\Studia\PROG\Analiza ocen studenta\bin\Debug\net10.0\Analiza ocen studenta.exe
+D:\Studia\PROG\Analiza ocen studenta\bin\Debug\net10.0\Analiza ocen studenta.deps.json
+D:\Studia\PROG\Analiza ocen studenta\bin\Debug\net10.0\Analiza ocen studenta.runtimeconfig.json
+D:\Studia\PROG\Analiza ocen studenta\bin\Debug\net10.0\Analiza ocen studenta.dll
+D:\Studia\PROG\Analiza ocen studenta\bin\Debug\net10.0\Analiza ocen studenta.pdb
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.AssemblyInfoInputs.cache
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.AssemblyInfo.cs
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.csproj.CoreCompileInputs.cache
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.dll
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\refint\Analiza ocen studenta.dll
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.pdb
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza ocen studenta.genruntimeconfig.cache
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\ref\Analiza ocen studenta.dll
+D:\Studia\PROG\Analiza ocen studenta\obj\Debug\net10.0\Analiza .D306DBCE.Up2Date
