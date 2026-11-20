@@ -1,0 +1,15 @@
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\bin\Debug\net10.0\Sprawdzanie liczb pierwszych.exe
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\bin\Debug\net10.0\Sprawdzanie liczb pierwszych.deps.json
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\bin\Debug\net10.0\Sprawdzanie liczb pierwszych.runtimeconfig.json
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\bin\Debug\net10.0\Sprawdzanie liczb pierwszych.dll
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\bin\Debug\net10.0\Sprawdzanie liczb pierwszych.pdb
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.AssemblyInfoInputs.cache
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.AssemblyInfo.cs
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.csproj.CoreCompileInputs.cache
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.dll
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\refint\Sprawdzanie liczb pierwszych.dll
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.pdb
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdzanie liczb pierwszych.genruntimeconfig.cache
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\ref\Sprawdzanie liczb pierwszych.dll
+D:\Studia\PROG\Sprawdzanie liczb pierwszych\obj\Debug\net10.0\Sprawdza.1B87BC83.Up2Date
